@@ -1,7 +1,0 @@
-Scrapy==2.1.0
-pyopenssl==22.0.0
-Twisted==20.3.0
-ipdb==0.13.2 #aqui é para poder ir arrumando o código quando tem erro
-scrapy-deltafetch==1.2.1 #para criar memória de itens já baixados
-pandas==1.2.1
-beautifulsoup4==4.9.1
