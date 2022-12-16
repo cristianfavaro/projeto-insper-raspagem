@@ -1,0 +1,5 @@
+# Ignore log files
+scrapy/
+
+# Ignore cache files
+**/__pycache__/**
